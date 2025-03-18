@@ -1,0 +1,10 @@
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.csproj.AssemblyReference.cache
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.Form1.resources
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.Properties.Resources.resources
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.csproj.GenerateResource.cache
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.csproj.CoreCompileInputs.cache
+D:\LTUD\QLTHUOC\QLTHUOC\bin\Debug\QLTHUOC.exe.config
+D:\LTUD\QLTHUOC\QLTHUOC\bin\Debug\QLTHUOC.exe
+D:\LTUD\QLTHUOC\QLTHUOC\bin\Debug\QLTHUOC.pdb
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.exe
+D:\LTUD\QLTHUOC\QLTHUOC\obj\Debug\QLTHUOC.pdb

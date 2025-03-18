@@ -1,0 +1,10 @@
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\bin\Debug\TiemThuoc.exe.config
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\bin\Debug\TiemThuoc.exe
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\bin\Debug\TiemThuoc.pdb
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.Form1.resources
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.exe
+C:\Users\Admin\Source\Repos\QLThuoc\TiemThuoc\obj\Debug\TiemThuoc.pdb
