@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -44,21 +44,8 @@
               "RelativeDocumentMoniker": "TiemThuoc\\Form22.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuoc\\TiemThuoc\\Form22.cs",
               "RelativeToolTip": "TiemThuoc\\Form22.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T07:48:17.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form22.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\qlthuoc\\TiemThuoc\\Form22.cs",
-              "RelativeDocumentMoniker": "TiemThuoc\\Form22.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuoc\\TiemThuoc\\Form22.cs [Design]",
-              "RelativeToolTip": "TiemThuoc\\Form22.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T07:47:27.011Z"
+              "WhenOpened": "2025-03-11T07:48:17.392Z"
             },
             {
               "$type": "Document",
@@ -68,10 +55,8 @@
               "RelativeDocumentMoniker": "TiemThuoc\\Form11.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuoc\\TiemThuoc\\Form11.cs",
               "RelativeToolTip": "TiemThuoc\\Form11.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T04:46:33.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T04:46:33.575Z"
             },
             {
               "$type": "Document",
@@ -84,6 +69,21 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T04:15:36.638Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form22.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\qlthuoc\\TiemThuoc\\Form22.cs",
+              "RelativeDocumentMoniker": "TiemThuoc\\Form22.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\qlthuoc\\TiemThuoc\\Form22.cs [Design]",
+              "RelativeToolTip": "TiemThuoc\\Form22.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:47:27.011Z"
             }
           ]
         }
